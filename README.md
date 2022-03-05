@@ -1,6 +1,6 @@
 # Git-It-Done
 
-## Introducing live updates!
+### Introducing live updates!
 
 This is my fifth project for the University of Oregon Coding Bootcamp 2022. In this project, I will use server-side APIs to create an application that will fetch GitHub repository data from a remote server live, continuously pulling updated data.
 
@@ -27,9 +27,9 @@ This is how the main page appears to users. The page is responsive, adapting to 
 
 <p align="center"><img src=""/></p>
 
-## Need to search GitHub Repos? Look no further!
+## Deployed Site
 
-<a href="">Click here to access our our site!<a>
+Need to search GitHub Repos? Look no further. <a href="">Click here to access the site!<a>
 
 ## Suggestion Box
 
