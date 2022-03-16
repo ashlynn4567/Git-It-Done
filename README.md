@@ -29,7 +29,7 @@ This is how the main page appears to users. The page is responsive, adapting to 
 
 ## Deployed Site
 
-Need to search GitHub Repos? Look no further. <a href="">Click here to access the site!<a>
+Need to search GitHub Repos? Look no further. <a href="https://ashlynn4567.github.io/Git-It-Done/">Click here to access the site!<a>
 
 ## Suggestion Box
 
