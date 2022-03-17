@@ -1,5 +1,19 @@
 var issueContainerEl = document.querySelector("#issues-container");
 var limitWarningEl = document.querySelector("#limit-warning");
+var repoNameEl = document.querySelector("#repo-name");
+
+
+var getRepoName = function() {
+    // isolate the name of the repo from user input
+    var queryString = document.location.search;
+    var repoName = queryString.split("=")[1];
+
+    // load the issues for the repository the user has selected
+    getRepoIssues(repoName);
+
+    // label the top of the page with the repo name
+    repoNameEl.textContent = repoName;
+};
 
 
 var getRepoIssues = function(repo) {
@@ -79,4 +93,4 @@ var displayWarning = function(repo) {
 };
 
 
-getRepoIssues("facebook/react");
+getRepoName();
