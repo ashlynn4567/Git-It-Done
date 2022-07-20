@@ -19,7 +19,7 @@ Have you ever wanted an easy way to browse GitHub by programming language or by 
 
 ## Deployed Site
 
-Follow [this link](https://ashlynn4567.github.io/Git-It-Done/) to view and use our site!
+Follow [this link](https://ashlynn4567.github.io/Git-It-Done/) to view and use my site!
 
 ## Features
 
@@ -46,6 +46,7 @@ Once clicking on the repository name, a new page opens that lists all issues wit
 - HTML
 - CSS
 - JavaScript
+- [Github API](https://docs.github.com/en/rest)
 
 ## Future Development
 
@@ -54,7 +55,7 @@ In the future, I would like to add the following improvements:
 - The ability for users to select the options by which they want to sort their results. For example, a button that the user could click to sort alphabetically or by most popular.
 - I would like to add the ability to save the search results to the homepage if the user clicks the back button. However, refreshing the page would refresh the results.
 
-I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach our development team at the links below.
+I'm always interested in refactoring code to improve it's functionality. If you would like to suggest your own improvements, you can reach me at the links below.
 
 - <a href="mailto:ashlynn4567@gmail.com">Email</a>
 - <a href="https://github.com/ashlynn4567">GitHub</a>
